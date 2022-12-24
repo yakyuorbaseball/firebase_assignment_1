@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1036628057585",
+    "project_id": "fir-tutorial-1d996",
+    "storage_bucket": "fir-tutorial-1d996.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036628057585:android:6cfbe9640f25426866f850",
+        "android_client_info": {
+          "package_name": "com.example.firebase_exercise_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036628057585-64ptob64laavvfvrdllk75ok2gjvcf0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrv4St61f6aE8_hHjt4uspTHlLmb8-IJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036628057585-64ptob64laavvfvrdllk75ok2gjvcf0o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1036628057585-29a6e7ufaenatku62pvua8amri5sjain.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseTutorial"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036628057585:android:c2dd4a774280df7f66f850",
+        "android_client_info": {
+          "package_name": "com.example.firebase_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036628057585-64ptob64laavvfvrdllk75ok2gjvcf0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrv4St61f6aE8_hHjt4uspTHlLmb8-IJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036628057585-64ptob64laavvfvrdllk75ok2gjvcf0o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1036628057585-29a6e7ufaenatku62pvua8amri5sjain.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseTutorial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
