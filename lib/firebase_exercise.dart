@@ -14,7 +14,6 @@ class _AuthExerciseState extends State<AuthExercise> {
   bool _isSignedIn = false;
   String userId = '';
 
-  //問３
   void checkSignInState(){
     FirebaseAuth.instance
         .authStateChanges()

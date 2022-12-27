@@ -100,20 +100,20 @@ class _SignUpState extends State<SignUp> {
               onPressed: (){
                 handleSignIn();
               },
-              child: const Text('サインイン', style: TextStyle(color: Colors.white),),
               style: ButtonStyle(
                   padding: MaterialStateProperty.all(const EdgeInsets.all(20)),
                   shape: MaterialStateProperty.all(RoundedRectangleBorder(borderRadius: BorderRadius.circular(15)))
               ),
+              child: const Text('サインイン', style: TextStyle(color: Colors.white),),
             ):ElevatedButton(
               onPressed: (){
                 handleSignUp();
               },
-              child: const Text('ユーザー登録', style: TextStyle(color: Colors.white),),
               style: ButtonStyle(
                   padding: MaterialStateProperty.all(const EdgeInsets.all(20)),
                   shape: MaterialStateProperty.all(RoundedRectangleBorder(borderRadius: BorderRadius.circular(15)))
               ),
+              child: const Text('ユーザー登録', style: TextStyle(color: Colors.white),),
             ),
             const SizedBox(height: 20,),
             TextButton(onPressed: (){
